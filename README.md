@@ -26,6 +26,6 @@ Instrucciones
 - Documentación oficial de Bootstrap
 - Guía para hacer una página web responsive
 
-## Contribución
+## Licencia
 
-Si deseas contribuir a este proyecto, puedes hacer un fork del repositorio, hacer tus cambios y enviar un pull request. ¡Estamos abiertos a nuevas ideas y mejoras!
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
